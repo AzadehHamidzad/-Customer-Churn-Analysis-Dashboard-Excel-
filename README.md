@@ -33,4 +33,4 @@ The dashboard provides a clear view of churn trends and customer behavior, enabl
 - Support **data-driven decision-making** for customer retention strategies.  
 
 ## Dashboard Preview
-![Customer Churn Dashboard](Customer_Churn.jpeg)}
+![Customer Churn Dashboard](Excel_Final.jpeg)
